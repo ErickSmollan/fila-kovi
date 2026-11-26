@@ -1,0 +1,41 @@
+codigo,data,chegada,cliente,servico,consultor,duracao_min,status
+1001,17/10/2026,09:45,Bernardo D.,locação,Elisa,5,concluído
+1002,18/10/2026,17:35,Heitor R.,devolução,Diego,42,concluído
+1003,19/10/2026,13:04,Rafaela D.,troca de carro,Bruno,65,concluído
+1004,20/10/2026,11:56,Tatiana B.,locação,Carla,55,concluído
+1005,21/10/2026,08:42,Heitor F.,locação,Diego,5,concluído
+1006,21/10/2026,17:40,Fábio N.,devolução,Ana,61,concluído
+1007,22/10/2026,08:55,Davi C.,devolução,Ana,72,concluído
+1008,24/10/2026,08:47,Isadora D.,devolução,Ana,49,concluído
+1009,25/10/2026,09:43,Samuel B.,sinistro,Bruno,46,concluído
+1010,26/10/2026,12:08,Heitor T.,sinistro,Bruno,63,concluído
+1011,27/10/2026,13:22,Gabriela S.,troca de carro,Diego,46,concluído
+1012,27/10/2026,14:21,Isadora C.,devolução,Ana,60,concluído
+1013,27/10/2026,15:24,Isadora S.,sinistro,Diego,52,concluído
+1014,31/10/2026,09:24,Isadora M.,troca de carro,Ana,5,concluído
+1015,31/10/2026,13:53,Bernardo D.,locação,Ana,17,concluído
+1016,04/11/2026,17:56,Lucas R.,devolução,Ana,9,concluído
+1017,05/11/2026,14:42,Lucas M.,sinistro,Ana,78,concluído
+1018,06/11/2026,11:41,Paulo L.,financeiro,Bruno,13,concluído
+1019,06/11/2026,14:17,Cecília D.,sinistro,Diego,17,concluído
+1020,07/11/2026,09:05,Marina B.,troca de carro,Diego,36,concluído
+1021,08/11/2026,17:16,Bernardo T.,financeiro,Ana,35,concluído
+1022,11/11/2026,13:14,Elaine N.,financeiro,Diego,36,concluído
+1023,12/11/2026,11:28,Tatiana F.,locação,Carla,74,concluído
+1024,13/11/2026,08:01,Cecília D.,devolução,Carla,15,concluído
+1025,13/11/2026,10:29,Alice T.,troca de carro,Diego,21,concluído
+1026,13/11/2026,11:59,Samuel T.,devolução,Elisa,5,concluído
+1027,13/11/2026,17:04,Marina L.,sinistro,Diego,46,concluído
+1028,14/11/2026,09:15,Heitor B.,troca de carro,Ana,52,concluído
+1029,15/11/2026,16:16,Samuel A.,locação,Elisa,34,concluído
+1030,16/11/2026,16:10,Isadora N.,sinistro,Carla,26,concluído
+1031,17/11/2026,08:07,Lucas F.,devolução,Ana,62,concluído
+1032,17/11/2026,09:48,Samuel C.,devolução,Elisa,43,concluído
+1033,17/11/2026,11:34,Elaine T.,sinistro,Bruno,62,concluído
+1034,18/11/2026,10:32,Davi S.,troca de carro,Bruno,45,concluído
+1035,18/11/2026,17:01,Samuel D.,sinistro,Ana,5,concluído
+1036,18/11/2026,17:12,Elaine G.,devolução,Bruno,13,concluído
+1037,20/11/2026,09:59,Marina B.,sinistro,Diego,73,concluído
+1038,20/11/2026,12:47,Tatiana L.,sinistro,,0,aguardando
+1039,20/11/2026,12:49,Kátia B.,troca de carro,,0,aguardando
+1040,20/11/2026,16:58,Alice R.,troca de carro,,0,aguardando

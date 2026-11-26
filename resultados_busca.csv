@@ -1,0 +1,10 @@
+volume,metodo,comparacoes_media,tempo_medio_us
+100,sequencial,75.8,2.03
+100,binária,6.4,0.55
+100,árvore,6.2,0.48
+1000,sequencial,773.9,30.82
+1000,binária,9.5,1.96
+1000,árvore,10.1,1.66
+10000,sequencial,7635.6,383.17
+10000,binária,13.3,1.87
+10000,árvore,14.6,1.73
